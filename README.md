@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Otus project
 
 Project for MLOps course
@@ -17,6 +16,4 @@ Setup Instructions
     uv add --requirements requirements.txt
     ```
 =======
-# otus-project
-Project for MLOps course
->>>>>>> 922aeda3284ca28ccae3a7c4975a1ba715f6b163
+
